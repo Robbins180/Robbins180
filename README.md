@@ -1,5 +1,4 @@
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Robbins180)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Hi there 👋, my name is Drew Robbins
 #### Full Stack Developer || Software Engineer 
@@ -10,6 +9,9 @@ I'm from the Houston area and I make content through Web Development and Design.
 Skills:  REACT / ANGULAR / JS / HTML / CSS / RUBY / SQL / NODE / EXPRESS
 
 - 🔭 I’m currently working on this page. 
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Robbins180)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
