@@ -10,7 +10,7 @@ I'm Drew from the Houston area and I make content through Web Development and De
 </p>
 
 <div align="center"> 
-  Visitor count
+  Thank You for visiting my profile, see you next time!
   <br>
   <img src="https://profile-counter.glitch.me/Robbins180/count.svg" />
 </div>
