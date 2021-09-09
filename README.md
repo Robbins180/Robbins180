@@ -7,9 +7,9 @@
  Full Stack Developer || Software Engineer 
  </h4>
  
- <img align='center'
+ 
 ![Full Stack Developer || Software Engineer ](https://thumbs.dreamstime.com/b/front-end-development-vector-concept-laptop-javascript-html-code-window-header-footer-banner-template-modern-172373798.jpg)
- />
+ 
  
 
 <p align='center'>
