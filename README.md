@@ -15,20 +15,19 @@ Skills:  REACT / ANGULAR / JS / HTML / CSS / RUBY / SQL / NODE / EXPRESS
 - 😄 Pronouns: He / Him / His 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Robbins180)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/drew-robbins//)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Robbins180)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/drew-robbins//)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/Robbins180)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Robbins180)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Robbins180)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Robbins180)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/Robbins180&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Robbins180&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/Robbins180)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Robbins180)  
 
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/Robbins180)  
+![GitHub metrics](https://metrics.lecoq.io/Robbins180)  
 
-![Profile views](https://gpvc.arturio.dev/https://github.com/Robbins180)  
-
+![Profile views](https://gpvc.arturio.dev/Robbins180)  
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Robbins180)](https://github.com/anuraghazra/github-readme-stats)
 
