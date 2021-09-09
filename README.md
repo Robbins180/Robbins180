@@ -21,7 +21,7 @@ I'm Drew from the Houston area and I make content through Web Development and De
 - 🌱 I’m currently learning React Native || More JavaScript 
 - 👯 I’m looking to collaborate on Any open sourced project or paid opportunity 
 - 📫 How to reach me: aRobbins180@gmail.com 
-- ☎️ 346 -955-1572
+- ☎️ (346)-955-1572
 - 😄 Pronouns: He / Him / His 
 
 ## Stats and Trophys
