@@ -11,7 +11,9 @@ I'm Drew from the Houston area and I make content through Web Development and De
 
 <div align="center"> 
   ![Dino](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif)
-  Visitor count<br>
+  <br>
+  Visitor count
+  <br>
   <img src="https://profile-counter.glitch.me/Robbins180/count.svg" />
 </div>
 
