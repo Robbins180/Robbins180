@@ -23,6 +23,7 @@ I'm Drew from the Houston area and I make content through Web Development and De
 - 📫 How to reach me: aRobbins180@gmail.com 
 - 😄 Pronouns: He / Him / His 
 
+## Stats and Trophys
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Robbins180)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/drew-robbins//)  
