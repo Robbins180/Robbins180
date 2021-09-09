@@ -6,7 +6,15 @@
 
 I'm Drew from the Houston area and I make content through Web Development and Design. I enjoy learning new languages and frameworks like React and React native. My other programming passions are design, creating vivid websites and solving bugs.
 
-Skills:  REACT / ANGULAR / JS / HTML / CSS / RUBY / SQL / NODE / EXPRESS
+## Skills and Experiance
+
+- REACT
+- REACT NATIVE 📲
+- ANGULAR
+- 💻 HTML | CSS | JS
+- 💎 RUBY | RAILS
+- 🔍 SQL | NODE | EXPRESS
+
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning React Native || More JavaScript 
