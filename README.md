@@ -41,7 +41,7 @@ I'm Drew from the Houston area and I make content through Web Development and De
 ![Dino](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif)
 
 
-<div align='center>
+
 
 ## Stats and Trophys
 
@@ -58,7 +58,7 @@ I'm Drew from the Houston area and I make content through Web Development and De
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Robbins180)](https://github.com/anuraghazra/github-readme-stats)
 
 
-</div>
+
 
 
 
