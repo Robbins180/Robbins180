@@ -4,9 +4,13 @@
  </h1>
  <h1 align='center'>
  Full Stack Developer || Software Engineer 
-![Full Stack Developer || Software Engineer ](https://thumbs.dreamstime.com/b/front-end-development-vector-concept-laptop-javascript-html-code-window-header-footer-banner-template-modern-172373798.jpg)
  </h4>
+![Full Stack Developer || Software Engineer ](https://thumbs.dreamstime.com/b/front-end-development-vector-concept-laptop-javascript-html-code-window-header-footer-banner-template-modern-172373798.jpg)
+ 
 
+<p align='center'>
+I'm from the Houston area and I make content through Web Development and Design. I enjoy learning new languages and frameworks like React and React native. My other programming passions are design, creating vivid websites and solving bugs.
+</p>
 
 <p align='center'>
   <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E">
@@ -28,15 +32,11 @@
   <br>
   <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=90" width="180">
   <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=90&reversal=true" width="180">
-  
-  
-  
+   
 </p>
 
 
-<p align='center'>
-I'm from the Houston area and I make content through Web Development and Design. I enjoy learning new languages and frameworks like React and React native. My other programming passions are design, creating vivid websites and solving bugs.
-</p>
+
 
 <div align="center"> 
   Thank You for visiting my profile, see you next time!
