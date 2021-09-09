@@ -1,8 +1,9 @@
 
-<div align='center>
+
 # Hi there, My name is Drew Robbins 👋
 #### Full Stack Developer || Software Engineer 
 ![Full Stack Developer || Software Engineer ](https://thumbs.dreamstime.com/b/front-end-development-vector-concept-laptop-javascript-html-code-window-header-footer-banner-template-modern-172373798.jpg)
+<div align='center>
 <p align='center'>
 I'm Drew from the Houston area and I make content through Web Development and Design. I enjoy learning new languages and frameworks like React and React native. My other programming passions are design, creating vivid websites and solving bugs.
 </p>
