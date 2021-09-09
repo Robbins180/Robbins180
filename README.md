@@ -9,17 +9,11 @@
 I'm Drew from the Houston area and I make content through Web Development and Design. I enjoy learning new languages and frameworks like React and React native. My other programming passions are design, creating vivid websites and solving bugs.
 </p>
 
-![Dino](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif)
-
 <div align="center"> 
   Visitor count
   <br>
   <img src="https://profile-counter.glitch.me/Robbins180/count.svg" />
 </div>
-
-
-  
-
 
 
 ## Skills and Experiance
@@ -39,6 +33,8 @@ I'm Drew from the Houston area and I make content through Web Development and De
 - 📫 How to reach me: aRobbins180@gmail.com 
 - ☎️ (346)-955-1572
 - 😄 Pronouns: He / Him / His 
+
+![Dino](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif)
 
 
 <div align='center>
