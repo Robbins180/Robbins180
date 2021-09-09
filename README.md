@@ -15,7 +15,7 @@ I'm Drew from the Houston area and I make content through Web Development and De
 </p>
 
 
-[Dino](https://miro.medium.com/max/1080/1*zfHgiP6zVBVvQT5YxISiJw.gif)
+![Dino](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif)
 
 
 ## Skills and Experiance
