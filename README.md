@@ -6,7 +6,7 @@
 
 
 <p align='center'>
-I'm Drew from the Houston area and I make content through Web Development and Design. I enjoy learning new languages and frameworks like React and React native. My other programming passions are design, creating vivid websites and solving bugs.
+I'm from the Houston area and I make content through Web Development and Design. I enjoy learning new languages and frameworks like React and React native. My other programming passions are design, creating vivid websites and solving bugs.
 </p>
 
 <div align="center"> 
