@@ -35,11 +35,8 @@ I'm Drew from the Houston area and I make content through Web Development and De
 - 😄 Pronouns: He / Him / His 
 
 
-
-
-<p align='center'
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Robbins180)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/drew-robbins//)  
-</p>
+
 
 ![Dino](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif)
 
