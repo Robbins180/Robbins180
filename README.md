@@ -14,9 +14,9 @@ I'm Drew from the Houston area and I make content through Web Development and De
   <img src="https://profile-counter.glitch.me/Robbins180/count.svg" />
 </p>
 
-
+<p align='center'>
 ![Dino](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif)
-
+</p>
 
 ## Skills and Experiance
 
