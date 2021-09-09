@@ -3,7 +3,8 @@
 # Hi there, My name is Drew Robbins 👋
 #### Full Stack Developer || Software Engineer 
 ![Full Stack Developer || Software Engineer ](https://thumbs.dreamstime.com/b/front-end-development-vector-concept-laptop-javascript-html-code-window-header-footer-banner-template-modern-172373798.jpg)
-<div align='center>
+
+
 <p align='center'>
 I'm Drew from the Houston area and I make content through Web Development and Design. I enjoy learning new languages and frameworks like React and React native. My other programming passions are design, creating vivid websites and solving bugs.
 </p>
@@ -13,7 +14,7 @@ I'm Drew from the Houston area and I make content through Web Development and De
   <img src="https://profile-counter.glitch.me/Robbins180/count.svg" />
 </p>
 
-</div>
+
 
 ## Skills and Experiance
 
@@ -34,7 +35,7 @@ I'm Drew from the Houston area and I make content through Web Development and De
 - 😄 Pronouns: He / Him / His 
 
 
-
+<div align='center>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Robbins180)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/drew-robbins//)  
 
@@ -53,7 +54,7 @@ I'm Drew from the Houston area and I make content through Web Development and De
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Robbins180)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
+</div>
 
 
 
