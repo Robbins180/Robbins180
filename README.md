@@ -60,9 +60,8 @@ I'm from the Houston area and I make content through Web Development and Design.
 
 ## Interest and Contact
 
-- 🔭 I’m currently working [TACO MEL] Robbins180/taco-mel . 
-- 🌱 I’m currently learning React Native || More JavaScript 
-- 👯 I’m looking to collaborate on Any open sourced project or paid opportunity 
+- 🔭 I’m currently working [Countly] Robbins180/countly . 
+- 👯 I’m looking to collaborate on projects and paid jobs.
 - 📫 How to reach me: aRobbins180@gmail.com 
 - ☎️ (346)-955-1572
 - 😄 Pronouns: He / Him / His 
